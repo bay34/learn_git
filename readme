@@ -3,3 +3,4 @@ read me
 ->update from term1, test conflict
 ->update from term2, test conflict
 ->try pull
+->add from term2
