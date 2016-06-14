@@ -1,9 +1,8 @@
-read me
+ad me
 ->update from term2
 ->update from term1, test conflict
 ->update from term2, test conflict
 ->try pull
 ->add from term2
 
-->update from term1
-->term2: Liu
+->term1,term2: Beiye Liu
